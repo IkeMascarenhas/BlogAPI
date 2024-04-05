@@ -5,7 +5,7 @@
 
 - Criar, deletar e atualizar conta.
 - Fazer login.
-- Criptografia dos dados sensívei.
+- Criptografia dos dados sensíveis.
 - Criar, deletar e atualizar posts.
 - Autenticação com Json Web Token.
 - Todos os dados ficam salvos em um banco de dados MongoDB até que sejam excluídos.
